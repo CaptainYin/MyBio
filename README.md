@@ -28,7 +28,7 @@
 - Yin J , Guo J , Kong B . Experimental demonstration of building and operating QoS-aware survivable vSD-EONs with transparent resiliency.[J]. Optics Express, 2017, 25(13):15468.
 - Yin J , Yin H , Liu S , et al. On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding[C]// IEEE Global Communications Conference (GLOBECOM) 2016. IEEE, 2016.
     
- # Honors
+# Honors
  - 2016年IEEE第二届信号处理杯“Honorable Mention for High Classification Accuracy”
  - 2015-2016年度中国科学技术大学校奖学金
  - 2015-2016年度中国科学技术大学校奖学金
