@@ -14,7 +14,7 @@
 # Project
     
 
-- [ParLTRANS](https://github.com/CaptainYin/ParLTRANS)：基于马里兰大学环境科学中心Horn Point 实验室的开源项目LTRANS v2.0开发的并行化版本拉格朗日粒子追踪模式，实现两个不同层面的并行化，适用于多核机器和集群；修改了底层代码（Fortran）以支持定常流场的模拟，笛卡尔坐标系；采用Google Map-Reduce的思想，搭建了任务划分，子任务映射，批量提交，结果收集等一系列并行化手段（Python, Shell）
+   - [ParLTRANS](https://github.com/CaptainYin/ParLTRANS)：基于马里兰大学环境科学中心Horn Point 实验室的开源项目LTRANS v2.0开发的并行化版本拉格朗日粒子追踪模式，实现两个不同层面的并行化，适用于多核机器和集群；修改了底层代码（Fortran）以支持定常流场的模拟，笛卡尔坐标系；采用Google Map-Reduce的思想，搭建了任务划分，子任务映射，批量提交，结果收集等一系列并行化手段（Python, Shell）
 - [Latex2html](https://github.com/CaptainYin/Latex2html) 编译原理课程项目，实现从latex排版命令到输出排版好的公式到HTML的C++项目(1700行)
 - [GLOBCOM2016](https://github.com/CaptainYin/GLOBCOM2016) 文章"On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding"的MATLAB系统仿真
 - [病毒代码分类](https://github.com/CaptainYin/MaliciousCodeClassification2016) 2016年中科院信工所暑期实习项目，用CNN实现了文本分类
@@ -29,9 +29,9 @@
 - Yin J , Yin H , Liu S , et al. On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding[C]// IEEE Global Communications Conference (GLOBECOM) 2016. IEEE, 2016.
     
  # Honors
- -2016年IEEE第二届信号处理杯“Honorable Mention for High Classification Accuracy”
- -2015-2016年度中国科学技术大学校奖学金
- -2015-2016年度中国科学技术大学校奖学金
+ - 2016年IEEE第二届信号处理杯“Honorable Mention for High Classification Accuracy”
+ - 2015-2016年度中国科学技术大学校奖学金
+ - 2015-2016年度中国科学技术大学校奖学金
 
 
 
@@ -39,9 +39,9 @@
 
 
 # Skill
--文档编写：Office word, Latex, Markdown
--编程语言：熟悉MATLAB, C/C++,Python, 了解Shell, Fortran
--操作系统：熟悉Windows/Ubuntu
+- 文档编写：Office word, Latex, Markdown
+- 编程语言：熟悉MATLAB, C/C++,Python, 了解Shell, Fortran
+- 操作系统：熟悉Windows/Ubuntu
       
 ---      
 
