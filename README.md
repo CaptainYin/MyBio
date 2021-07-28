@@ -25,8 +25,8 @@
 
 -  Xueyan Zhang, Haijin Dai, Jun Zhao, Heqing Yin, 2018, [Generation mechanism of an observed submesoscale eddy in the Chukchi Sea](https://doi.org/10.1016/j.dsr.2019.04.015), Deep-Sea Research Part I, 
 - Zhang, X., Dai, H., Zhao, J., Yin H., 2019, [Sensitivity study of the wave-driven current in a marginal ice zone](https://www.researchgate.net/publication/333772002_Sensitivity_study_of_the_wave-driven_current_in_a_marginal_ice_zone). Acta Oceanologica Sinica
-- Yin J , Guo J , Kong B . Experimental demonstration of building and operating QoS-aware survivable vSD-EONs with transparent resiliency.[J]. Optics Express, 2017, 25(13):15468.
-- Yin J , Yin H , Liu S , et al. On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding[C]// IEEE Global Communications Conference (GLOBECOM) 2016. IEEE, 2016.
+- Yin J , Guo J , Kong B . [Experimental demonstration of building and operating QoS-aware survivable vSD-EONs with transparent resiliency.[J]](https://www.researchgate.net/publication/317672408_Experimental_Demonstration_of_Building_and_Operating_QoS-aware_Survivable_vSD-EONs_with_Transparent_Resiliency_References_and_links). Optics Express, 2017, 25(13):15468.
+- Yin J , Yin H , Liu S , et al. [On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding[C]](https://www.researchgate.net/publication/305583917_On-Demand_and_Reliable_vSD-EON_Provisioning_with_Correlated_Data_and_Control_Plane_Embedding)// IEEE Global Communications Conference (GLOBECOM) 2016. IEEE, 2016.
     
 # Honors
  - 2016年IEEE第二届信号处理杯“Honorable Mention for High Classification Accuracy”
