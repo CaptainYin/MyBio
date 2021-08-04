@@ -28,6 +28,9 @@
 - Yin J , Guo J , Kong B . [Experimental demonstration of building and operating QoS-aware survivable vSD-EONs with transparent resiliency.[J]](https://www.researchgate.net/publication/317672408_Experimental_Demonstration_of_Building_and_Operating_QoS-aware_Survivable_vSD-EONs_with_Transparent_Resiliency_References_and_links). Optics Express, 2017, 25(13):15468.
 - Yin J , Yin H , Liu S , et al. [On-Demand and Reliable vSD-EON Provisioning with Correlated Data and Control Plane Embedding[C]](https://www.researchgate.net/publication/305583917_On-Demand_and_Reliable_vSD-EON_Provisioning_with_Correlated_Data_and_Control_Plane_Embedding)// IEEE Global Communications Conference (GLOBECOM) 2016. IEEE, 2016.
     
+# Patent
+- [《一种基于深度学习的中尺度涡旋识别方法》](https://www.zhangqiaokeyan.com/patent-detail/06120111817827.html)张卫民;殷何卿;戴海瑨;王辉赞;汪祥;朱俊星;李小勇(第一发明人是导师)
+
 # Honors
  - 2016年IEEE第二届信号处理杯“Honorable Mention for High Classification Accuracy”
  - 2015-2016年度中国科学技术大学校奖学金
